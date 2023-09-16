@@ -10,7 +10,7 @@
     </parent>
     <groupId>tn.esprit</groupId>
     <artifactId>KaddemProject</artifactId>
-    <version>1.7</version>
+    <version>1.8</version>
     <name>KaddemProject</name>
     <description>KaddemProject</description>
     <properties>
@@ -63,7 +63,7 @@
             <artifactId>modelmapper</artifactId>
             <version>3.1.0</version>
         </dependency>
-        
+
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
